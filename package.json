@@ -1,0 +1,6 @@
+{
+    "type": "module",
+    "dependencies": {
+        "cli-color": "^2.0.0"
+    }
+}
